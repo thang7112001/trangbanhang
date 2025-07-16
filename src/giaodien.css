@@ -1,0 +1,13 @@
+.list{
+    width: 70%;
+}
+.contain{
+    display: flex;
+    width: 100%;
+    border: 1px black solid;
+    height: 100vh;
+}
+.detail{
+    width: 30%;
+    border: 1px black solid;
+}

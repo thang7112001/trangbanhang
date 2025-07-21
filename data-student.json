@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "class": "10A2",
+      "gpa": 8.5,
+      "grades": [
+        {
+          "subject": "Toán",
+          "score": 9,
+          "comment": "Học tốt",
+          "date": "2024-05-23T08:56:21.618Z",
+          "teacher": "Cô Lan"
+        },
+        {
+          "subject": "Văn",
+          "score": 8,
+          "comment": "Diễn đạt tốt",
+          "date": "2024-05-23T08:56:21.618Z",
+          "teacher": "Thầy Sơn"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị B",
+      "class": "10A2",
+      "gpa": 7.8,
+      "grades": [
+        {
+          "subject": "Lý",
+          "score": 7,
+          "comment": "Cần cố gắng hơn",
+          "date": "2024-06-10T10:00:00.000Z",
+          "teacher": "Thầy Quang"
+        }
+      ]
+    },
+    {
+      "id": "a098",
+      "name": "thang",
+      "class": "11",
+      "gpa": "10",
+      "grade": []
+    }
+  ]
+}
